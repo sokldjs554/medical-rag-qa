@@ -1,0 +1,11 @@
+{
+  "recall_at_k": {
+    "1": 0.978,
+    "3": 0.99,
+    "5": 0.99,
+    "10": 0.996
+  },
+  "answer_accuracy": 0.564,
+  "n_test": 500,
+  "generator": "claude"
+}
